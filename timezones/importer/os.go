@@ -1,3 +1,7 @@
+/**
+ * CURRENTLY NOT USED, reads from the OS' local zoneinfo database
+ */
+
 package importer
 
 import (
